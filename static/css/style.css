@@ -54,6 +54,7 @@ h1, h2, h3, h4, h5 {
     font-weight: 500;
     color: #607d8b;
     line-height: 1.5;
+    font-size: medium
 }
 
 .progress-list div {
@@ -121,7 +122,7 @@ hr {
 
 
 body {
-    background-color: lightslategray;
+    background-color: white;
     font-family: sans-serif, Microsoft Yahei, Helvetica Neue;
     zoom: 80%;
 }
@@ -131,6 +132,7 @@ footer {
 
 p {
     line-height: 1.5;
+    font-size: small;
 }
 
 progress {
@@ -170,11 +172,10 @@ progress::-moz-progress-value {
 }
 
 .weixin{
-    margin-top: 20px;
     background-color: #e0eaf0;   
     position: relative;
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-top: 25px;
+    padding-bottom: 25px;
     text-align: center;
 }
 
@@ -191,7 +192,7 @@ progress::-moz-progress-value {
     margin: 0 auto;
     margin-top:20px;
     margin-bottom: 10px;
-    background-image:url('https://avatars0.githubusercontent.com/u/21081491?v=3&s=460');
+    background-image:url('https://avatars1.githubusercontent.com/u/22289078?v=3&u=d5b456f7b913783486cec9018d6b00bb73480bc4&s=400');
     background-size: 120%;
     background-position:center;
     border-radius:50%;
@@ -265,6 +266,7 @@ progress::-moz-progress-value {
 
 ul li{
     position: relative;
+    font-size: small;
 }
 
  .experience-list .item-remove {
