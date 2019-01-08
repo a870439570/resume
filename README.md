@@ -1,4 +1,4 @@
-<div align="center">  
+
 ### 简介
 
 [快速访问](https://a870439570.github.io/resume)
@@ -23,4 +23,4 @@
 ![输入图片说明](https://images.gitee.com/uploads/images/2018/1225/094055_a1254ebd_1478371.png "wuliao2.png")
 
 
-</div>
+
