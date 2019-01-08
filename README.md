@@ -1,4 +1,4 @@
-# 个人简历主页
+# 个人简历
 
 
 <div align="center">  
