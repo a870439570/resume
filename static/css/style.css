@@ -191,7 +191,7 @@ progress::-moz-progress-value {
     margin: 0 auto;
     margin-top:20px;
     margin-bottom: 10px;
-    background-image:url('https://github.com/a870439570/resume/blob/master/static/image/photo.jpg');
+    background-image:url('../image/photo.jpg');
     background-size: 120%;
     background-position:center;
     border-radius:50%;
